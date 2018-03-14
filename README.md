@@ -10,8 +10,9 @@ I use it to keep track of what I'm doing each day.
 ## Example of use
 
 Input
-`javascript
+`
 j Test journal entry
+
 j And another one
 `
 
@@ -19,7 +20,9 @@ Output
 
 `
 day;time;data
+
 "2018-03-14";"23:43:01.38";"Test journal entry"
+
 "2018-03-14";"23:43:04.39";"And another one"
 `
 
