@@ -8,11 +8,13 @@ Just place it in you home folder, open *cmd*, input *j Whatever your journal ent
 I use it to keep track of what I'm doing each day.
 
 ## Example of use
+
 Input
 `javascript
 j Test journal entry
 j And another one
 `
+
 Output
 `
 day;time;data
